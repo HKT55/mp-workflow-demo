@@ -1,1 +1,4 @@
-'def greet(name):\n    return f"Hello, {name}! Welcome to the workflow demo."\n\nprint(greet("Harsh"))' 
+def greet(name):
+    return f"Hello, {name}! Welcome to the workflow demo."
+
+print(greet("Harsh"))
